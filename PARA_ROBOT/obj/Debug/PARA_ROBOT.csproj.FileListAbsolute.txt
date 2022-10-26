@@ -1,0 +1,10 @@
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\bin\Debug\PARA_ROBOT.exe.config
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\bin\Debug\PARA_ROBOT.exe
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\bin\Debug\PARA_ROBOT.pdb
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.csprojAssemblyReference.cache
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.Properties.Resources.resources
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.csproj.GenerateResource.cache
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.exe
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.pdb
+C:\Users\Demir\source\repos\PARA_ROBOT\PARA_ROBOT\obj\Debug\PARA_ROBOT.frmMain.resources
